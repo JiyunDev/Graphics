@@ -1,0 +1,4 @@
+#Debug Folder
+JRenderer/JRenderer/Debug/
+*.pdb
+JRenderer/.vs/
